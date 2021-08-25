@@ -1,0 +1,4 @@
+- https://verbalearn.com/hinh-hoc-khong-gian/bai-tap-hinh-hoc-khong-gian-11/?fbclid=IwAR1n26MANDZ76vcP82akqHJzaqPTvd6wPIOKHJYG28SuPTUy5KIZ2aBaLTY
+- https://vietjack.com/toan-lop-12/40-bai-tap-khao-sat-va-ve-do-thi-ham-so-co-giai-chi-tiet.jsp?fbclid=IwAR1zVsT1dtHi6Q9Dlox_gnOUEadZzSk7jOKOJ_d2M-1cpz-6ShnxmkuLsOA
+- https://github.com/thiminhnhut/ubuntu/blob/master/application/latex/caidat-texlive-texmaker.md
+- https://hochanh.github.io/rblog/soan-LaTeX-tieng-Viet-tren-Ubuntu/
