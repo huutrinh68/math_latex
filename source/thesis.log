@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2021.8.26)  26 AUG 2021 18:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2021.8.26)  26 AUG 2021 18:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1102,44 +1102,51 @@ File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.1a (rcs-revision 1.13)
 \c@tkz@cnt@pair=\count147
 \c@tkz@cnt@impair=\count148
 \c@tkz@cnt@aw=\count149
+) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip47
+\enit@outerparindent=\dimen187
+\enit@toks=\toks38
+\enit@inbox=\box41
+\enitdp@description=\count150
 )
 
 LaTeX Warning: Unused global option(s):
     [13pt].
 
-(./thesis.aux (./problem1.aux) (./problem2.aux))
+(./thesis.aux (./problem1.aux) (./problem2.aux) (./problem3.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count150
-\scratchdimen=\dimen187
-\scratchbox=\box41
-\nofMPsegments=\count151
-\nofMParguments=\count152
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count153
-\MPscratchDim=\dimen188
-\MPnumerator=\count154
-\makeMPintoPDFobject=\count155
-\everyMPtoPDFconversion=\toks39
+\scratchcounter=\count151
+\scratchdimen=\dimen188
+\scratchbox=\box42
+\nofMPsegments=\count152
+\nofMParguments=\count153
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count154
+\MPscratchDim=\dimen189
+\MPnumerator=\count155
+\makeMPintoPDFobject=\count156
+\everyMPtoPDFconversion=\toks40
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1159,8 +1166,8 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box42
-Package hyperref Info: Link coloring OFF on input line 16.
+\AtBeginShipoutBox=\box43
+Package hyperref Info: Link coloring OFF on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1168,11 +1175,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count156
+\c@section@level=\count157
 )
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write4
@@ -1183,14 +1190,14 @@ LaTeX Info: Redefining \nameref on input line 16.
 File: images/cover/dhsp_logo.png Graphic file (type png)
 
 <use images/cover/dhsp_logo.png>
-Package pdftex.def Info: images/cover/dhsp_logo.png used on input line 25.
+Package pdftex.def Info: images/cover/dhsp_logo.png used on input line 26.
 (pdftex.def)             Requested size: 113.81102pt x 113.81053pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 25.
+LaTeX Font Info:    Try loading font information for U+msa on input line 26.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 25.
+LaTeX Font Info:    Try loading font information for U+msb on input line 26.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1198,9 +1205,6 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/cover/dhsp_logo.p
 ng>]
-\openout2 = `problem1.aux'.
-
-
 (./problem1.tex
 File: images/cover/dhsp_logo.png Graphic file (type png)
  <use images/cover/dhsp_logo.png>
@@ -1213,56 +1217,49 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
-)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
- been already used, duplicate ignored
+) (./problem2.texpdfTeX warning (ext4): destination with the same identifier (n
+ame{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.27 \include{problem1}
-                        [1
-
-]
-\openout2 = `problem2.aux'.
-
- (./problem2.tex
+l.20 	\end{figure}
+                   [1]
 File: images/cover/dhsp_logo.png Graphic file (type png)
  <use images/cover/dhsp_logo.png>
 Package pdftex.def Info: images/cover/dhsp_logo.png used on input line 30.
 (pdftex.def)             Requested size: 170.71652pt x 170.7158pt.
-
-[2
-
-
-]) [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 29.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 29.
- (./thesis.aux (./problem1.aux) (./problem2.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 29.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 29.
+ [2]) (./problem3.tex)
+[3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 31.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 31.
+ (./thesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 31.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 31.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 29.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 31.
  ) 
 Here is how much of TeX's memory you used:
- 19575 strings out of 493029
- 359616 string characters out of 6136234
- 429580 words of memory out of 5000000
- 22737 multiletter control sequences out of 15000+600000
+ 19863 strings out of 493029
+ 364442 string characters out of 6136234
+ 437521 words of memory out of 5000000
+ 23014 multiletter control sequences out of 15000+600000
  15836 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,9n,79p,421b,1024s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 61i,9n,77p,442b,1065s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/vntex/vnr/vnbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/v
-nr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr17.pfb>
-Output written on thesis.pdf (4 pages, 138369 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/vnte
+x/vnr/vnbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/vntex/vnr/vnr17.pfb>
+Output written on thesis.pdf (4 pages, 149567 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
+ 88 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
